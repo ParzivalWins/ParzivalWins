@@ -10,6 +10,7 @@
 
 Hi, I'm Ben Morris, Thank you for visiting. My focus is your focus. Human Performance.
 
+- 🤖 - Building valuable AI agents - Helping Humans become better Humans 💪
 - 🔭 I’m currently working on Various Commerce Projects including: project [BuyHi](https://buyhi.co)
 - 🌱 I have digital product and fullstack marketing platform experience. 
 - 👯 I’m looking to collaborate
@@ -23,4 +24,4 @@ Hi, I'm Ben Morris, Thank you for visiting. My focus is your focus. Human Perfor
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-Atlassian Jira integration added. 
+
